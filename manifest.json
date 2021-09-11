@@ -1,15 +1,15 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Win11Patch",
-        "name": "Windows 11 compatability patch for Minecraft Bedrock",
+        "description": "x86PEpatch",
+        "name": "x86 compatability patch for the Android version of Minecraft Bedrock",
         "uuid": "92b5a96d-0206-4445-a03c-28fe6a9fe4d2",
         "version": [0, 1, 0],
         "min_engine_version": [ 1, 17, 10 ]
     },
     "modules": [
         {
-            "description": "Win11Patch",
+            "description": "x86PEpatch",
             "type": "resources",
             "uuid": "1bbf50d0-488e-42f9-a29e-d1ff5e9b9b94",
             "version": [0, 1, 0]
