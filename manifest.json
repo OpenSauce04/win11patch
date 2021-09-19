@@ -1,8 +1,8 @@
 {
     "format_version": 2,
     "header": {
-        "description": "x86PEpatch",
-        "name": "x86 compatability patch for the Android version of Minecraft Bedrock",
+        "name": "x86PEpatch",
+        "description": "x86 compatability patch for the Android version of Minecraft Bedrock",
         "uuid": "92b5a96d-0206-4445-a03c-28fe6a9fe4d2",
         "version": [0, 1, 0],
         "min_engine_version": [ 1, 17, 10 ]
